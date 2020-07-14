@@ -8,8 +8,8 @@ hello git!hello word!
 hello git!hello word!
 hello git!hello word!
 hello git!hello word!
-hello git!hello word!
 hello git!hello wordi!  @@@@@@@@@@@@@@
+hello git!hello word!  (((((((((((
 hello git!hello word!  ^^^^^^^^^^^^^^^^^^^^^^^
 hello git!hello word!
 hello git!hello word!  $$$$$$$$$$$$$$$$$$$$$$$
